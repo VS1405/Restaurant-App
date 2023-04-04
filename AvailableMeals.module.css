@@ -2,8 +2,10 @@
     max-width: 60rem;
     width: 90%;
     margin: 2rem auto;
-    color: whitesmoke;
+    background-color: white;
+    border-radius: 25px;
     animation: meals-appear 1s ease-out forwards;
+    padding-top: 10px ;
   }
   
   .meals ul {
